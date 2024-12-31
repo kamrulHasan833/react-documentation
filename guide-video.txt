@@ -1,0 +1,12 @@
+How to setup Autixir - Car Services and Auto Mechanic  Next Js Template (both windows and Mac users). I am using windows 
+terminal also you can use mac or others OS built in terminal.
+
+By following this simple 6 steps you can run this template in your computer 
+--------------------------------------------------------------------------------------------------
+
+1. Check npm version with command line interface in your computer by following command npm -v)
+2. Check Node Js version with command line interface in your computer by following command (node -v)
+3. If not install npm & Nodejs please install npm & Nodejs in you computer first.
+4. extract downloaded file.
+5. npm install on this project
+6. npm run dev
